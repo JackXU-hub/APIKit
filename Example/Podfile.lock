@@ -1,0 +1,16 @@
+PODS:
+  - ApiKit (0.1.0)
+
+DEPENDENCIES:
+  - ApiKit (from `../`)
+
+EXTERNAL SOURCES:
+  ApiKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ApiKit: 15029d9d79e808b937b4da531a7b895c5d051b78
+
+PODFILE CHECKSUM: 7025b33a8920379d0b67f85e840ddb4e42111c92
+
+COCOAPODS: 1.5.3

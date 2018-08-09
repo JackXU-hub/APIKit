@@ -64,9 +64,9 @@
 		7663AA55086CBBE522935EC0 /* Pods_ApiKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ApiKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A93BBDF8759450E11FAD312A /* Pods-ApiKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ApiKit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ApiKit_Tests/Pods-ApiKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		C3BC74499312CC5864D39B4F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		CDF203DB5DD90F6DF53D5EEB /* ApiKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = ApiKit.podspec; path = ../ApiKit.podspec; sourceTree = "<group>"; };
-		E60CB663D1A83381B05EDC05 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		C3BC74499312CC5864D39B4F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		CDF203DB5DD90F6DF53D5EEB /* ApiKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = ApiKit.podspec; path = ../ApiKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		E60CB663D1A83381B05EDC05 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
